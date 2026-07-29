@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-1w28i0.dune-promo.com/sitemap.xml
